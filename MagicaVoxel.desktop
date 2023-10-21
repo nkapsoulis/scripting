@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=gnome-panel-launcher
+Name[en_US]=MagicaVoxel
+Exec=wine64-stable /home/$USER/Downloads/MagicaVoxel-0.99.6.4-win64/MagicaVoxel.exe
+Name=MagicaVoxel
+Icon=/home/$USER/Downloads/MagicaVoxel-0.99.6.4-win64/logo.png
