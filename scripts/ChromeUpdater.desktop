@@ -6,6 +6,6 @@ Type=Application
 Terminal=true
 Icon[en_US]=gnome-panel-launcher
 Name[en_US]=ChromeUpdater
-Exec=./chrome-updater.sh # & "Allow launching"
+Exec=./chrome-updater.sh # "Allow launching"
 Name=ChromeUpdater
 Icon= # Download Chrome logo
